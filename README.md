@@ -1,4 +1,4 @@
-Aegisub 3.4.x yaması ile beraber resmi türkçe dil desteği kazandığı için bu çalışmamızı sona erdiriyoruz.
+## Aegisub 3.4.x yaması ile beraber resmi türkçe dil desteği kazandığı için bu çalışmamızı sona erdiriyoruz. Yamayı arşivleyip başka planlarımıza yöneleceğiz.
 
 
 Kurulum rar dosyası içerisinde mevcuttur.
